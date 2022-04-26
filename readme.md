@@ -15,4 +15,4 @@ The stimuli presented here is from Zachary A. Caddick's doctoral dissertation. T
 
 ## R Scripts and Stimuli
 
-### [Study 1](){[readme](), [stimuli](), [R Scripts]()}
+### [Study 1]() {[readme](), [stimuli](), [R Scripts]()}
