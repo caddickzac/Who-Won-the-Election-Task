@@ -1,1 +1,3 @@
-# Study 1: Overview
+# Study 1
+
+## Overview
