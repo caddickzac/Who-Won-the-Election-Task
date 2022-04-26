@@ -38,6 +38,7 @@ Introduction Graph 7
 
 ### Who Won the Election Task: Version A
 
-WWET 01
+Who Won the Election Task, Version A, 01
 
-![WWET 01](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_01.png?raw=true)
+![Who Won the Election Task, Version A, 01](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_01.png?raw=true)
+
