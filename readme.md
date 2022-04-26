@@ -15,4 +15,4 @@ The stimuli presented here is from Zachary A. Caddick's doctoral dissertation. T
 
 ## R Scripts and Stimuli
 
-### [Study 1]() {[readme](), [stimuli](), [R Scripts]()}
+### [Study 1]() {[readme](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/readme.md), [stimuli](), [R Scripts]()}
