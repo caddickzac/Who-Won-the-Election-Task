@@ -40,4 +40,4 @@ Introduction Graph 7
 
 WWET 01
 
-![WWET 01](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/WWET_Version_A_01.png?raw=true)
+![WWET 01](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_01.png?raw=true)
