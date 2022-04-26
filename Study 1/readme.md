@@ -38,7 +38,50 @@ Introduction Graph 7
 
 ### Who Won the Election Task: Version A
 
-Who Won the Election Task, Version A, 01
+Who Won the Election Task, Version A, Item 1
 
-![Who Won the Election Task, Version A, 01](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_01.png?raw=true)
+![Who Won the Election Task, Version A, Item 1](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_01.png?raw=true)
+
+Who Won the Election Task, Version A, Item 2
+
+![Who Won the Election Task, Version A, Item 2](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_02.png?raw=true)
+
+Who Won the Election Task, Version A, Item 3
+
+![Who Won the Election Task, Version A, Item 3](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_03.png?raw=true)
+
+Who Won the Election Task, Version A, Item 4
+
+![Who Won the Election Task, Version A, Item 4](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_04.png?raw=true)
+
+
+Who Won the Election Task, Version A, Item 5
+
+![Who Won the Election Task, Version A, Item 5](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_05.png?raw=true)
+
+
+Who Won the Election Task, Version A, Item 6
+
+![Who Won the Election Task, Version A, Item 6](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_06.png?raw=true)
+
+
+Who Won the Election Task, Version A, Item 7
+
+![Who Won the Election Task, Version A, Item 7](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_07.png?raw=true)
+
+
+Who Won the Election Task, Version A, Item 8
+
+![Who Won the Election Task, Version A, Item 8](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_08.png?raw=true)
+
+
+Who Won the Election Task, Version A, Item 9
+
+![Who Won the Election Task, Version A, Item 9](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_09.png?raw=true)
+
+
+Who Won the Election Task, Version A, Item 10
+
+![Who Won the Election Task, Version A, Item 10](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/WWET_Version_A_10.png?raw=true)
+
 
