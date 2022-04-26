@@ -10,3 +10,7 @@
 Introduction Graph 1
 
 ![Introduction Graph 1](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/Introduction_graph_1.png?raw=true)
+
+Introduction Graph 2
+
+![Introduction Graph 2](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/Stimuli/Introduction_graph_2.png?raw=true)
