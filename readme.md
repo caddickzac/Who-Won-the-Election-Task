@@ -34,7 +34,7 @@ Version A & B refer to condition assignment. Version A is the condition with bot
 
 Versions A, B, & C refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Version  C is the condition with summary data only. Participants were randomly assigned to only one of the conditions.
 
-## R Scripts and Stimuli
+## Qualtrics Survey Materials, R Scripts, and Stimuli
 
 ### [Study 1](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Stimuli), [R Scripts]()}
 
