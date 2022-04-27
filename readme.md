@@ -28,11 +28,11 @@ Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflectio
 
 ### Study 3
 
-Version A & B refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only.
+Version A & B refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Participants were randomly assigned to only one of the conditions.
 
 ### Study 4
 
-Versions A, B, & C refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Version  C is the condition with summary data only.
+Versions A, B, & C refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Version  C is the condition with summary data only. Participants were randomly assigned to only one of the conditions.
 
 ## R Scripts and Stimuli
 
