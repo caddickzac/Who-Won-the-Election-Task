@@ -36,10 +36,10 @@ Versions A, B, & C refer to condition assignment. Version A is the condition wit
 
 ## Qualtrics Survey Materials, R Scripts, and Stimuli
 
-#### [Study 1](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Stimuli), [R Scripts]()}
+### [Study 1](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Stimuli), [R Scripts]()}
 
-#### [Study 2](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Stimuli), [R Scripts]()}
+### [Study 2](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Stimuli), [R Scripts]()}
 
-#### [Study 3](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Stimuli), [R Scripts]()}
+### [Study 3](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Stimuli), [R Scripts]()}
 
-#### [Study 4](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Stimuli), [R Scripts]()}
+### [Study 4](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Stimuli), [R Scripts]()}
