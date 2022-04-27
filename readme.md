@@ -36,4 +36,4 @@ Versions A, B, & C refer to condition assignment. Version A is the condition wit
 
 ## R Scripts and Stimuli
 
-### [Study 1](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201) {[readme](https://github.com/caddickzac/Who-Won-the-Election-Task/blob/main/Study%201/readme.md), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Stimuli), [R Scripts]()}
+### [Study 1](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Stimuli), [R Scripts]()}
