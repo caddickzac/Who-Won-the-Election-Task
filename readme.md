@@ -20,19 +20,19 @@ The stimuli presented here is from Zachary A. Caddick's doctoral dissertation. T
 
 ### Study 1
 
-#### Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflection" of Version A's data. Participants either completed Version A or Version B, but not both. 
+Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflection" of Version A's data. Participants either completed Version A or Version B, but not both. 
 
 ### Study 2
 
-#### Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflection" of Version A's data. Participants completed both versions, at different time points. Participants were randomly assigned to complete either Version A or Version B first. 
+Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflection" of Version A's data. Participants completed both versions, at different time points. Participants were randomly assigned to complete either Version A or Version B first. 
 
 ### Study 3
 
-### Version A & B refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only.
+Version A & B refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only.
 
 ### Study 4
 
-### Versions A, B, & C refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Version  C is the condition with summary data only.
+Versions A, B, & C refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Version  C is the condition with summary data only.
 
 ## R Scripts and Stimuli
 
