@@ -1,3 +1,5 @@
+**This repository is currently under development.**
+
 
 # Who Won the Election Task: Stimuli for studies 1-4
 Authors: [Caddick, Z. A.](https://orcid.org/0000-0002-3369-7727), [Rottman, B. M.](http://orcid.org/0000-0002-4718-3970)
@@ -9,9 +11,28 @@ Paper Citation:
 
 For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com).
 
+
 ## Overview:
 The stimuli presented here is from Zachary A. Caddick's doctoral dissertation. The dissertation research project includes four studies. Each of the studies used related, but distinct stimuli. The organization of the information is grouped by study number.
 
+
+## Stimuli File Naming Information
+
+### Study 1
+
+#### Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflection" of Version A's data. Participants either completed Version A or Version B, but not both. 
+
+### Study 2
+
+#### Version A & B refer to counterbalancing stimuli. Verion B is a "mirror reflection" of Version A's data. Participants completed both versions, at different time points. Participants were randomly assigned to complete either Version A or Version B first. 
+
+### Study 3
+
+### Version A & B refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only.
+
+### Study 4
+
+### Versions A, B, & C refer to condition assignment. Version A is the condition with both raw and summary data. Version B is the condition with raw data only. Version  C is the condition with summary data only.
 
 ## R Scripts and Stimuli
 
