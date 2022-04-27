@@ -13,7 +13,7 @@ For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gm
 
 
 ## Overview:
-The stimuli presented here is from Zachary A. Caddick's doctoral dissertation. The dissertation research project includes four studies. Each of the studies used related, but distinct stimuli. The organization of the information is grouped by study number.
+The materials presented here are from Zachary A. Caddick's doctoral dissertation. The dissertation research project includes four studies. Each of the studies used related, but distinct stimuli. The organization of the information is grouped by study number.
 
 
 ## Stimuli File Naming Information
