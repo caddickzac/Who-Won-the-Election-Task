@@ -6,8 +6,7 @@ Authors: [Caddick, Z. A.](https://orcid.org/0000-0002-3369-7727), [Rottman, B. M
 
 Lab: [Causal Learning and Decision Making Lab](http://www.lrdc.pitt.edu/rottman/)
 
-Paper Citation: 
-[insert citation here]
+Paper Citation: [insert citation here; in preparation]
 
 For help or more information contact [caddickzac@gmail.com](mailto:caddickzac@gmail.com).
 
