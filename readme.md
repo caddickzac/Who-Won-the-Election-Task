@@ -44,3 +44,8 @@ The QSF, or “Qualtrics Survey Format” file has been uploaded for each study 
 ### [Study 3](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Stimuli)}
 
 ### [Study 4](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Stimuli)}
+
+## Project Resources:
+* [Dissertation data](https://github.com/caddickzac/Dissertation-Data)
+* [OSF Pre-registration](https://osf.io/n75cz/)
+
