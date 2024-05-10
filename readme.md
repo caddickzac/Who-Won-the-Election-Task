@@ -39,11 +39,11 @@ The QSF, or “Qualtrics Survey Format” file has been uploaded for each study 
 
 #### [Study 1](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%201/Stimuli)}
 
-#### [Study 2](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Stimuli)}
+#### [Study 2](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%202/Stimuli)}
 
-#### [Study 3](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Stimuli)}
+#### [Study 3](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%203/Stimuli)}
 
-#### [Study 4](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204), {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Stimuli)}
+#### [Study 4](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204) {[Qualtrics Survey](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Qualtrics%20Survey), [stimuli](https://github.com/caddickzac/Who-Won-the-Election-Task/tree/main/Study%204/Stimuli)}
 
 ## Project Resources:
 * [Dissertation data](https://github.com/caddickzac/Dissertation-Data)
