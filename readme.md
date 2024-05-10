@@ -1,6 +1,3 @@
-**This repository is currently under development.**
-
-
 # Who Won the Election Task: Stimuli for studies 1-4
 Authors: [Caddick, Z. A.](https://orcid.org/0000-0002-3369-7727), [Rottman, B. M.](http://orcid.org/0000-0002-4718-3970)
 
